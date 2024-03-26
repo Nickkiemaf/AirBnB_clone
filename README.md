@@ -41,7 +41,7 @@ Please make sure to update tests as appropriate.
 
 Authors
 Mikail Fasilat Ajibola
-Busola Ojudirin
+Busola Odujnirin
 
 License
 MIT
